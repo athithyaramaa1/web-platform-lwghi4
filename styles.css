@@ -1,0 +1,14 @@
+/* Your code goes here */
+#Elonmusk{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg);
+  height: 375px;
+  width: 300px;
+  box-sizing: border-box;
+  margin-top: 100px;
+  margin-left: 100px;
+  border: 5px solid red;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-left: 5px;
+}
